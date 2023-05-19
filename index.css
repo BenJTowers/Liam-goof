@@ -1,0 +1,63 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #141b36;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.title-h1 {
+    text-align: center;
+    background: #3c4566;
+    margin-top: 0px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    border-bottom: 5px solid #2a3252;
+    font-weight: 500;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  width: 50%;
+  border-radius: 8px;
+  border: 2px solid #2a3252
+}
+
+.goof-h3 {
+    text-align: center;
+    color: #4f5b8f;
+}
+
+.goof-counter {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    width: 150px; 
+    background: #3c4566;   
+    border-radius: 10px;
+    margin-bottom: 50px;
+}
+.goof-counter-title {
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.goof-counter-counter {
+    background: #2a3252;
+    width: 50px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 5px;
+}
+
+.goof-counter-increment {
+    margin-bottom: 5px;
+    background: #848fba;
+    padding-right: 12px;
+    padding-left: 12px;
+    border-radius: 5px; 
+}
